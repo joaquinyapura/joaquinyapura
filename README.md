@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Joaquin</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **PYTHON.**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **Freelancer´s proyects**
 
