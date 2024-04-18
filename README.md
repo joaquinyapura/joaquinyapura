@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **Javascript and front end dev.**
 
-- 📫 How to reach me **joaquin_yapura@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joaquinbatallanes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joaquinbatallanes/" height="30" width="40" /></a>
