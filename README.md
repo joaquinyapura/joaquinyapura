@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santiago Joaquin</h1>
+<h1 align="center">Hi 👋, I'm Santiago Joaquin Batallanes</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 - 🌱 I’m currently learning **ReactJS**
